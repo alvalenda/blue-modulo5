@@ -113,3 +113,11 @@ export function logPerson(person: Person) {
 }
 
 persons.forEach(logPerson);
+
+/*  -----------------------------------------------------------------------------------------------
+    Criarei um arquivo .ts para cada exercício, para facilitar a visualização e a compreensão do
+    código. Apenas para fins didáticos e de correção. 
+
+    Manterei este principal no qual os exercícios são desenvolvidos para preservervar o histórico
+    de desenvolvimento.
+  ----------------------------------------------------------------------------------------------- */
